@@ -1,16 +1,20 @@
-### Hi there 👋
+```
+def main():
+    print("Hello, world!")
 
-<!--
-**Teiketsusama/Teiketsusama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+if __name__ == '__main__':
+    main()
+```
+## Hi there, I'm June 
+![Static Badge](https://img.shields.io/badge/linkedin-profile-black?style=flat-square&logo=linkedin&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjune-jie-ding%2F)
+![Static Badge](https://img.shields.io/badge/-%40JieDing-black?style=flat-square&logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2Fteiketsusama%2F)
+![Static Badge](https://img.shields.io/badge/-%40teiketsusama-black?style=flat-square&logo=instagram&logoColor=%23d62976&link=https%3A%2F%2Fwww.instagram.com%2Fteiketsusama%2F)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+- [Flask webscraper app](https://github.com/Teiketsusama/IndeedScraper)
+-  💻 [updating soon..]
+
+## My Tech Stack
+
+## My Stats
