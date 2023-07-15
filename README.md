@@ -29,4 +29,4 @@ if __name__ == '__main__':
 ![pandas](https://img.shields.io/badge/pandas-%23f8f9fa?style=flat-square&logo=pandas&logoColor=%236f42c1)
 
 ## My Stats
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teiketsusama&layout=compact)
