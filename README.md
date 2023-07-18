@@ -1,4 +1,4 @@
-```
+```python
 def main():
     print("Hello, world!")
 
@@ -27,6 +27,20 @@ if __name__ == '__main__':
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23eeeeee?style=flat-square&logo=tensorflow&logoColor=orange)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-%23f6b26b?style=flat-square&logo=scikitlearn&logoColor=%2372bcd4)
 ![pandas](https://img.shields.io/badge/pandas-%23f8f9fa?style=flat-square&logo=pandas&logoColor=%236f42c1)
+![VSCode](https://img.shields.io/badge/VSCode-%23ffffff?logo=visual%20studio%20code&logoColor=blue)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23FCF84A?logo=pycharm&logoColor=%23000000&labelColor=%2321D789)
+![Rider](https://img.shields.io/badge/Rider-%23fcb20f?logo=rider&logoColor=black&labelColor=%23de513e)
 
-## My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teiketsusama&layout=compact)
+Currently learning ⬇️
+
+![C#](https://img.shields.io/badge/C%23-%23E4DCF0?logo=csharp&logoColor=%23A179DC)
+
+## 
+<details>
+
+<summary>💻 My Github Stats</summary>
+
+#### Most Used Languages
+<img align="left" alt="Top Langs" src="https://github-readme-stats-git-master-teiketsusama.vercel.app/api/top-langs/?username=teiketsusama&layout=compact&hide_title=true" />
+    
+</details>
