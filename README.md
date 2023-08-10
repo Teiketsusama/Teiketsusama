@@ -41,6 +41,6 @@ Currently learning ⬇️
 <summary>💻 My Github Stats</summary>
 
 #### Most Used Languages
-<img align="left" alt="Top Langs" src="https://github-readme-stats-teiketsusama.vercel.app/api/top-langs/?username=teiketsusama&layout=compact&hide_title=true" />
+<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teiketsusama&layout=compact&hide_title=true" />
     
 </details>
