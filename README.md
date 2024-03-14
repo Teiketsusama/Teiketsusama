@@ -11,10 +11,6 @@ if __name__ == '__main__':
 ![Facebook](https://img.shields.io/badge/-%40JieDing-black?style=flat-square&logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2Fteiketsusama%2F)
 ![Instagram](https://img.shields.io/badge/-%40teiketsusama-black?style=flat-square&logo=instagram&logoColor=%23d62976&link=https%3A%2F%2Fwww.instagram.com%2Fteiketsusama%2F)
 
-## Currently working on
-- [Flask webscraper app](https://github.com/Teiketsusama/IndeedScraper)
--  💻 [updating soon..]
-
 ## My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-gray?style=flat-square&logo=MySQL&logoColor=%23F29111&color=%2300758F)
@@ -36,6 +32,7 @@ Currently learning ⬇️
 
 ![C#](https://img.shields.io/badge/C%23-%23d0cecf?logo=csharp&logoColor=%23A179DC)
 ![XAML](https://img.shields.io/badge/XAML-%23d0cecf?logo=xaml&logoColor=blue)
+![.NET](https://img.shields.io/badge/.NET_Framework-%23d0cecf?logo=.net&logoColor=purple)
 
 ## 
 <details>
