@@ -1,11 +1,3 @@
-```python
-def main():
-    print("Hello, world!")
-
-
-if __name__ == '__main__':
-    main()
-```
 ## Hi there, I'm June 
 ![Linkedin](https://img.shields.io/badge/linkedin-profile-black?style=flat-square&logo=linkedin&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjune-jie-ding%2F)
 ![Facebook](https://img.shields.io/badge/-%40JieDing-black?style=flat-square&logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2Fteiketsusama%2F)
